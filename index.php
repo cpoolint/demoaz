@@ -1,6 +1,6 @@
 <html>
 	<center>		
 			Hello from 
-			<?php> echo "<h1>USA South Central<>" <?> 		
+			<?php> echo "<h1>Japan East<>" <?> 		
 	</center>
 </html>
